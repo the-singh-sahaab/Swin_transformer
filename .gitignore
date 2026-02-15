@@ -1,0 +1,4 @@
+# Model checkpoints
+*.keras
+*.pth
+*.h5
